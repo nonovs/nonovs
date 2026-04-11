@@ -55,6 +55,6 @@ Con visualización interactiva en Grafana para facilitar la planificación de pe
 > Si te interesa colaborar o comentar algún proyecto, ¡escríbeme!
 
 
-## 🐍 Mis contribuciones
+
 
 ![snake gif](https://raw.githubusercontent.com/nonovs/nonovs/output/github-contribution-grid-snake.svg)
