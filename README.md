@@ -53,3 +53,8 @@ Con visualización interactiva en Grafana para facilitar la planificación de pe
 - GitHub: [@nonovs](https://github.com/nonovs)
 
 > Si te interesa colaborar o comentar algún proyecto, ¡escríbeme!
+
+
+## 🐍 Mis contribuciones
+
+![snake gif](https://github.com/nonovs/nonovs/blob/output/github-contribution-grid-snake.svg)
