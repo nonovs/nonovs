@@ -51,6 +51,8 @@ Con visualización interactiva en Grafana para facilitar la planificación de pe
 ## 📫 Contacto
 
 - GitHub: [@nonovs](https://github.com/nonovs)
+- LinkedIn: [Antonio Vilares Salgueiro](https://www.linkedin.com/in/antonio-vilares-salgueiro-646a69329/)
+
 
 > Si te interesa colaborar o comentar algún proyecto, ¡escríbeme!
 
@@ -63,4 +65,3 @@ Con visualización interactiva en Grafana para facilitar la planificación de pe
 
 ![snake animation](https://raw.githubusercontent.com/nonovs/nonovs/output/github-contribution-grid-snake.svg)
 
-- LinkedIn: [Antonio Vilares Salgueiro](https://www.linkedin.com/in/antonio-vilares-salgueiro-646a69329/)
