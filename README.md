@@ -57,4 +57,4 @@ Con visualización interactiva en Grafana para facilitar la planificación de pe
 
 ## 🐍 Mis contribuciones
 
-![snake gif](https://github.com/nonovs/nonovs/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/nonovs/nonovs/output/github-contribution-grid-snake.svg)
