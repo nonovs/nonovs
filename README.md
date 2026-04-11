@@ -12,4 +12,4 @@ You can click the Preview link to take a look at your changes.
 
 ## 🐍 Mis contribuciones
 
-![snake gif](https://raw.githubusercontent.com/nonovs/nonovs/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/nonovs/nonovs/output/snake.svg)
