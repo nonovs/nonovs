@@ -8,9 +8,10 @@
 
 - **Java**
 - **Python**
-- **HTML / CSS**
+- **C**
 - **Git & GitHub**
 - **Grafana** (en proyectos de visualización)
+- **HTML**
 ---
 ## 🌱 Actualmente
 
