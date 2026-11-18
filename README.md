@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=240&section=header&text=Antonio%20Vilares&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Ingenier%C3%ADa%20Inform%C3%A1tica%20%C2%B7%20USC&descSize=20&descAlignY=60" alt="banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=240&section=header&text=Antonio%20Vilares%20Salgueiro&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Ingenier%C3%ADa%20Inform%C3%A1tica%20%C2%B7%20USC&descSize=20&descAlignY=60" alt="banner" />
 
 <a href="https://github.com/nonovs"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=%C2%A1Hola!+Soy+Antonio+%F0%9F%91%8B;Estudiante+de+4%C2%BA+de+Ingenier%C3%ADa+Inform%C3%A1tica+en+la+USC;Bases+de+datos+%C2%B7+Data+Warehouse+%C2%B7+Miner%C3%ADa+de+datos;Visualizaci%C3%B3n+de+datos+con+Power+BI+%F0%9F%93%8A;Ganador+del+HackUDC+2026+%F0%9F%8F%86" alt="Typing SVG" /></a>
 
